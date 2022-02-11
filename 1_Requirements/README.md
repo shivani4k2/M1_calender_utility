@@ -11,7 +11,7 @@
 * Why - to provide accurate calender
 * How - bybcomputing the dates
 # SWOT analysis
-
+![this is an image]()
 # High level Requirements
 * Store the data inserted
 * provide the calender for all the 12 months
