@@ -11,16 +11,7 @@
 * Why - to provide accurate calender
 * How - bybcomputing the dates
 # SWOT analysis
-### strength
-* Takes very less time
-* Ease of use
-### Weakness
-* Lack of GUI
-### Opportunities
-* Useful for everyone
-* Multi development ways
-### Threats
-* Nil
+
 # High level Requirements
 * Store the data inserted
 * provide the calender for all the 12 months
