@@ -31,4 +31,7 @@
 
 # Best followed Method
 * Instead of using multiple if statements for selection, we use switch case which is the best method to follow and provides the best results.
+# Design
+
+![Screenshot (163)](https://user-images.githubusercontent.com/85895650/153209940-75dc260a-c3c6-4184-a9a4-3125a5c8042d.png)
 
