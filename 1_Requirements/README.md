@@ -4,12 +4,14 @@
 * The main or focus point is to provide the calender very precisely.
 * Less computational time.
 # 5W's 1H
-* Who - for everyone
-* What - a universal calender
-* When - when ever required
-* Where - can be used anywhere ,runs on local machine
-* Why - to provide accurate calender
-* How - bybcomputing the dates
+||Description|
+|------|-----------------------------------------------------|
+|Who| for everyone|
+|What|a universal calender|
+|When|whenever required|
+|Where|can be used anywhere ,runs on local machine|
+|Why|to provide accurate calender|
+|How|bybcomputing the dates|
 # SWOT analysis
 ![Screenshot (171)](https://user-images.githubusercontent.com/85895650/153571205-95f8778a-b3fb-41fc-8131-de9c8c4107e1.png)
 # High level requirements
